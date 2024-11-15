@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#2E4053"           # Dark slate gray for primary elements
+backgroundColor="#F5F5F5"        # Light gray for main background
+secondaryBackgroundColor="#E8E8E8"  # Slightly darker gray for secondary background
+textColor="#2C3E50"             # Dark gray (almost black) for text
+font="sans serif"
