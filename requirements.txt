@@ -40,6 +40,7 @@ pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_170611312530
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 pillow @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_617xe_y58w/croot/pillow_1721059447446/work
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
+plotly @ file:///opt/conda/envs/env/conda-bld/plotly_1726152651141/work/packages/python/plotly/dist/plotly-5.24.1.tar.gz#sha256=7f07a2b089ff9a06d36218b1384821fdff860a9dbffa85d7f8d10d98ae95e1b1
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
 protobuf==4.25.3
 psutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/psutil_1699248249804/work
